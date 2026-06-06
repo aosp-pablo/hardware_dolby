@@ -94,10 +94,9 @@ PRODUCT_VENDOR_PROPERTIES += \
 PRODUCT_PACKAGES += \
     RemovePackagesDolby
 
-
 # XiaomiDolby
 PRODUCT_PACKAGES += \
-    XiaomiDolby
+    MarbleDolby
 
 # Dolby Proprietary blobs
 PRODUCT_COPY_FILES += \
