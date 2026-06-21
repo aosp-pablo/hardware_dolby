@@ -38,6 +38,10 @@ android_app {
         "preinstalled-packages-platform-marble-dolby.xml",
         "privapp-permissions-marble-dolby.xml",
     ],
+
+    optimize: {
+        enabled: true,
+    },
 }
 
 prebuilt_etc {
